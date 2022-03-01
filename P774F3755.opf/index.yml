@@ -1,0 +1,22 @@
+id: bc94f9013c804317802d76651325474a
+annotation_type: index
+revision: '00001'
+annotations:
+  36a5f2825a794f50b60d6603defa0319:
+    work_id: WA1745BFA
+    span:
+      vol: 'Chapter I: Nidāna'
+      start: 0
+      end: 556
+  5972c2e294d7490da4626c7d83c22485:
+    work_id: WBC0808BE
+    span:
+      vol: 'Chapter II: Praṇidhānacaryā'
+      start: 0
+      end: 17
+  f6210d8337f444ea95a56d8b5368ee4f:
+    work_id: W132123D1
+    span:
+      vol: Title
+      start: 0
+      end: 479
